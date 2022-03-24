@@ -4,6 +4,6 @@
 
 🌱:book: I’m currently learning Computer Vision, Machine Learning, Tensorflow, and Typescript
 
-😄 Pronouns: She/Her
+😄 Pronouns: She/her/hers
 
 
